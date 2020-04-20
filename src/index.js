@@ -35,8 +35,8 @@ const listArray = [1, 2, 3, 4, 5]
 const resultList = MyImmutableJS.List(listArray)
 
 /*********** DELETE ***********/
-console.log('before delete', resultList.clonedArray)
-console.log('after delete', resultList.deleteFromIndex(3))
+// console.log('before delete', resultList.clonedArray)
+// console.log('after delete', resultList.deleteFromIndex(3))
 /*********** SPLICE ***********/
 // const sourceArray = [{id: 1, a: 1}, {id: 2, a: 2}, {id: 3, a: 3}]
 // const resultList1 = MyImmutableJS.List(sourceArray)

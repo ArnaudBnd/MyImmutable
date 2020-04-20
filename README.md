@@ -10,6 +10,8 @@ L'objectif est de reproduire la librairie immutable.js.
 * npm start
 ```
 
+Puis, décommenter les variables dans => index.js.
+
 ## Ce qu'elle comprend comme méthodes:
 
 * Map:
